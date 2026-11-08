@@ -1,0 +1,91 @@
+{
+  "languages": [
+    {
+      "code": "en",
+      "flag": "GB",
+      "name": "English",
+      "dir": "ltr",
+      "title": "The presale is not available in your region",
+      "reason": "Your connection comes from a country or territory where L2Protocol can't offer the presale, because of local law and international sanctions.",
+      "notice": "Using a VPN or proxy to get around this restriction is not permitted."
+    },
+    {
+      "code": "es",
+      "flag": "ES",
+      "name": "Español",
+      "dir": "ltr",
+      "title": "La preventa no está disponible en tu región",
+      "reason": "Tu conexión procede de un país o territorio donde L2Protocol no puede ofrecer la preventa debido a la legislación local y a las sanciones internacionales.",
+      "notice": "No está permitido usar una VPN o un proxy para eludir esta restricción."
+    },
+    {
+      "code": "fr",
+      "flag": "FR",
+      "name": "Français",
+      "dir": "ltr",
+      "title": "La prévente n'est pas offerte dans votre région",
+      "reason": "Votre connexion provient d'un pays ou d'un territoire où L2Protocol ne peut pas offrir la prévente, en raison des lois locales et des sanctions internationales.",
+      "notice": "Il est interdit d'utiliser un VPN ou un proxy pour contourner cette restriction."
+    },
+    {
+      "code": "ru",
+      "flag": "RU",
+      "name": "Русский",
+      "dir": "ltr",
+      "title": "Предпродажа недоступна в вашем регионе",
+      "reason": "Вы подключаетесь из страны или территории, где L2Protocol не может проводить предпродажу из-за местного законодательства и международных санкций.",
+      "notice": "Использование VPN или прокси для обхода этого ограничения запрещено.",
+      "aliases": [
+        "be"
+      ]
+    },
+    {
+      "code": "zh",
+      "flag": "CN",
+      "name": "中文",
+      "dir": "ltr",
+      "title": "您所在的地区无法参与预售",
+      "reason": "由于当地法律和国际制裁，L2Protocol 无法在您连接所在的国家或地区提供预售。",
+      "notice": "禁止使用 VPN 或代理绕过此限制。"
+    },
+    {
+      "code": "ar",
+      "flag": "SA",
+      "name": "العربية",
+      "dir": "rtl",
+      "title": "البيع المسبق غير متاح في منطقتك",
+      "reason": "يأتي اتصالك من دولة أو إقليم لا تستطيع فيه L2Protocol تقديم البيع المسبق بسبب القوانين المحلية والعقوبات الدولية.",
+      "notice": "لا يُسمح باستخدام VPN أو خادم وكيل للتحايل على هذا القيد."
+    },
+    {
+      "code": "fa",
+      "flag": "IR",
+      "name": "فارسی",
+      "dir": "rtl",
+      "title": "پیش‌فروش در منطقهٔ شما در دسترس نیست",
+      "reason": "اتصال شما از کشور یا منطقه‌ای است که L2Protocol به دلیل قوانین محلی و تحریم‌های بین‌المللی نمی‌تواند پیش‌فروش را در آن ارائه کند.",
+      "notice": "استفاده از VPN یا پراکسی برای دور زدن این محدودیت مجاز نیست.",
+      "aliases": [
+        "prs"
+      ]
+    },
+    {
+      "code": "ko",
+      "flag": "KR",
+      "name": "한국어",
+      "dir": "ltr",
+      "title": "귀하의 지역에서는 사전 판매에 참여할 수 없습니다",
+      "reason": "현지 법률 및 국제 제재로 인해 L2Protocol은 귀하가 접속한 국가 또는 지역에서 사전 판매를 제공할 수 없습니다.",
+      "notice": "VPN이나 프록시를 사용해 이 제한을 우회하는 것은 허용되지 않습니다."
+    },
+    {
+      "code": "my",
+      "flag": "MM",
+      "name": "မြန်မာ",
+      "dir": "ltr",
+      "title": "သင့်ဒေသတွင် ကြိုတင်ရောင်းချမှု မရရှိနိုင်ပါ",
+      "reason": "ဒေသဆိုင်ရာ ဥပဒေများနှင့် နိုင်ငံတကာ ပိတ်ဆို့အရေးယူမှုများကြောင့် L2Protocol သည် သင်ချိတ်ဆက်နေသော နိုင်ငံ သို့မဟုတ် နယ်မြေတွင် ကြိုတင်ရောင်းချမှုကို မပေးနိုင်ပါ။",
+      "notice": "VPN သို့မဟုတ် proxy ဖြင့် ဤကန့်သတ်ချက်ကို ကျော်ခြင်းကို ခွင့်မပြုပါ။"
+    }
+  ]
+}
